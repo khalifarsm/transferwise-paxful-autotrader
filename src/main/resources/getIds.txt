@@ -1,0 +1,2 @@
+https://api.sandbox.transferwise.tech/v1/profiles profile-id
+https://api.sandbox.transferwise.tech/v1/borderless-accounts?profileId=[[profileId]] account-id is ID
